@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+
+  .cont2 img {
+    width: 20%;
+    margin-top: 10px;
+    margin-left: 700px;
+  }
+
+  .cont3 {
+    background: rgb(175, 240, 236);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+  }
+  .cont4 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    text-align: center;
+  }
+}

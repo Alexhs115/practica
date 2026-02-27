@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+
+  .Cont1 {
+    background: rgb(111, 223, 156);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(0, 0, 255);
+    font-size: larger;
+    width: 350px;
+    margin: 50px 50px;
+    border-radius: 20% 20%;
+    font-weight: bold;
+    font-style: oblique;
+    font-size: large;
+    text-decoration: underline;
+    text-decoration: line-through;
+    text-transform: capitalize;
+  }
+
+  .Cont1 img {
+    width: 50%;
+    height: 50%;
+  }
+}
